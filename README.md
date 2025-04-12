@@ -1,7 +1,7 @@
 ## Olá mundo! Sou o Allec Cabral🤘🏻
 
 <ul>
-<li>Trabalhando em <a href="https://www.mundodoscolecionaveis.com.br/">Fernabdo Editora</a>
+<li>Trabalhando em <a href="https://www.mundodoscolecionaveis.com.br/">Fernando Editora</a>
 <li>Cursando <strong>Faculdade Flamingo</strong> 1° Semestre
 
 </ul>
